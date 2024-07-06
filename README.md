@@ -6,6 +6,9 @@ I lose a lot of time trying to log in to my accounts on new computers, for examp
 I developed it for myself but you can download and use it too.
 
 
+[V2 Screen Shot](https://github.com/f3riend/quickLogV2/blob/main/quickLog/assets/quicklogv2.png)
+
+
 
 V1.0 was developed in Python but V2.0 was developed in C#.
 
