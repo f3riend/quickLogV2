@@ -9,7 +9,7 @@ I developed it for myself but you can download and use it too.
 
 V1.0 was developed in Python but V2.0 was developed in C#.
 
-<a href="https://github.com/f3riend/quick-log">Click for V2.0 </a>
+<a href="https://github.com/f3riend/quickLogV1">Click for V1.0 </a>
 
 
 
