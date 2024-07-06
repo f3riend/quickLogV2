@@ -26,4 +26,4 @@ You can quickly log in to your Google accounts, in this project you can quickly 
 - Google Chrome must be installed
 - passwords.json file needs to be edited, you must enter your account information
 
-Translated with DeepL.com (free version)
+
