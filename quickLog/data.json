@@ -1,36 +1,32 @@
 {
-    "edevlet": {
-        "username": "10175000880",
-        "pass": "S;[$H0M[![^2"
-    },
     "github": {
-        "username": "f4riend@gmail.com",
-        "pass": "$Ecz7MN'N0RTMUr"
+        "username": "youremail@gmail.com",
+        "pass": "yourpassword"
     },
     "instagram": {
-        "username": "f3riend",
-        "pass": "noWCp!j@fPNUFS"
+        "username": "username",
+        "pass": "password"
     },
     "steam": {
-        "username": "bypasa10",
-        "pass": "noWCp!j@fPNUFS"
+        "username": "username",
+        "pass": "password"
     },
     "discord": {
-        "username": "blaskea72@gmail.com",
-        "pass": "noWCp!j@fPNUFS"
+        "username": "youremail@gmail.com",
+        "pass": "password"
     },
-    "email": {
+    "email":{
         "email1": {
-            "username": "durmazoktay44@gmail.com",
-            "pass": "GhostChillder1720Fa8*"
+            "username":"youremail1@gmail.com",
+            "pass": "password"
         },
         "email2": {
-            "username": "blaskea72@gmail.com",
-            "pass": "noWCp!j@fPNUFS"
+            "username": "youremail2@gmail.com",
+            "pass": "password"
         },
-        "email3": {
-            "username": "f4riend@gmail.com",
-            "pass": "noWCp!j@fPNUFS"
+        "email3":{
+            "username": "youremail3@gmail.com",
+            "pass": "password"
         }
     }
 }
